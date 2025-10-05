@@ -1,12 +1,12 @@
 # 🧮 Complete NumPy Learning Guide
 
-Welcome to the **Complete NumPy Learning Repository** — a hands-on and structured guide designed for **students, data learners, and aspiring analysts** who want to **master NumPy from scratch**.
+Welcome to the **Complete NumPy Learning Repository** a hands-on and structured guide designed for **students, data learners, and aspiring analysts** who want to **master NumPy from scratch**.
 
-This repository covers every essential concept of **NumPy** — from basic array creation to complex data manipulations used in real-world data analytics and machine learning.
+This repository covers every essential concept of **NumPy**  from basic array creation to complex data manipulations used in real-world data analytics and machine learning.
 
 ---
 
-By following each level, you’ll gain the ability to **handle, transform, and analyze data** efficiently using NumPy — one of the most powerful Python libraries.
+By following each level, you’ll gain the ability to **handle, transform, and analyze data** efficiently using NumPy, one of the most powerful Python libraries.
 
 ---
 
